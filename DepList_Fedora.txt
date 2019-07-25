@@ -1,0 +1,39 @@
+ bison-devel 
+ arm-none-eabi-gcc
+ arm-none-eabi-gcc-cs 
+ arm-none-eabi-gcc-cs-c++ 
+ arm-none-eabi-binutils-cs 
+ 
+ patch
+ gperftools-devel
+ ncurses-devel
+ cdk
+ cdk-devel
+ ccrtp
+ ccrtp-devel
+ doxygen 
+ python3-hidapi
+ mingw64-hidapi
+ hidapi-devel
+ xclip
+ autoconf213
+ libtool-ltdl-devel
+ python2-devel
+ guile
+ nodejs-node-expat
+ mingw64-libltdl
+ libusb-devel
+ libusb
+ autoconf
+ texinfo
+ libtool
+ libftdi-devel
+ gcc-arm-linux-gnu
+ flex
+ gperf
+ git
+ bison
+ zlib  
+ 
+
+
